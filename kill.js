@@ -1,0 +1,1 @@
+document.getElementById("highButton") ? document.getElementById("highButton").remove() : document.getElementById("highDiv").remove()
